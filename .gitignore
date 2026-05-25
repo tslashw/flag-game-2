@@ -21,3 +21,18 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Editor
+.idea/
+.vscode/settings.json
+*.suo
+*.swp
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Misc
+*.bak
+"* *".json
