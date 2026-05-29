@@ -1,482 +1,1056 @@
 [
-    {
-        "code": "AR",
-        "cca3": "ARG",
-        "name": "Argentina",
-        "capital": "Buenos Aires",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "grn": "Guaraní",
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "ARS": {
-                "name": "Argentine peso",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "-38.01529308",
-            "longitude": "-64.97897469",
-            "zoom": "4"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ar.svg",
-        "flag_4x3": "flags/4x3/ar.svg"
+  {
+    "code": "AR",
+    "cca3": "ARG",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
     },
-    {
-        "code": "AW",
-        "cca3": "ABW",
-        "name": "Aruba",
-        "capital": "Oranjestad",
-        "continent": "South America",
-        "subregion": "Caribbean",
-        "languages": {
-            "nld": "Dutch",
-            "pap": "Papiamento"
-        },
-        "currencies": {
-            "AWG": {
-                "name": "Aruban florin",
-                "symbol": "ƒ"
-            }
-        },
-        "center": {
-            "latitude": "12.52109661",
-            "longitude": "-69.96833800",
-            "zoom": "12"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/aw.svg",
-        "flag_4x3": "flags/4x3/aw.svg"
+    "currencies": {
+      "ARS": {
+        "name": "Argentine peso",
+        "symbol": "$"
+      }
     },
-    {
-        "code": "BO",
-        "cca3": "BOL",
-        "name": "Bolivia",
-        "capital": "Sucre",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "aym": "Aymara",
-            "grn": "Guaraní",
-            "que": "Quechua",
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "BOB": {
-                "name": "Bolivian boliviano",
-                "symbol": "Bs."
-            }
-        },
-        "center": {
-            "latitude": "-16.74518128",
-            "longitude": "-65.19265691",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/bo.svg",
-        "flag_4x3": "flags/4x3/bo.svg"
+    "center": {
+      "latitude": "-38.01529308",
+      "longitude": "-64.97897469",
+      "zoom": "4"
     },
-    {
-        "code": "BQ",
-        "cca3": "BES",
-        "name": "Bonaire, Sint Eustatius and Saba",
-        "capital": "Kralendijk",
-        "continent": "South America",
-        "subregion": "Caribbean",
-        "languages": {
-            "eng": "English",
-            "nld": "Dutch",
-            "pap": "Papiamento"
-        },
-        "currencies": {
-            "USD": {
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "12.17229702",
-            "longitude": "-68.28831170",
-            "zoom": "11"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/bq.svg",
-        "flag_4x3": "flags/4x3/bq.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ar.svg",
+    "flag_4x3": "flags/4x3/ar.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          117,
+          170,
+          219
+        ],
+        "hex": "#75aadb"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
     },
-    {
-        "code": "BR",
-        "cca3": "BRA",
-        "name": "Brazil",
-        "capital": "Brasília",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "por": "Portuguese"
-        },
-        "currencies": {
-            "BRL": {
-                "name": "Brazilian real",
-                "symbol": "R$"
-            }
-        },
-        "center": {
-            "latitude": "-11.80965046",
-            "longitude": "-53.33152600",
-            "zoom": "4"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/br.svg",
-        "flag_4x3": "flags/4x3/br.svg"
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5556
+  },
+  {
+    "code": "AW",
+    "cca3": "ABW",
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "continent": "South America",
+    "subregion": "Caribbean",
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
     },
-    {
-        "code": "CL",
-        "cca3": "CHL",
-        "name": "Chile",
-        "capital": "Santiago",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "CLP": {
-                "name": "Chilean peso",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "-38.01760790",
-            "longitude": "-71.40014474",
-            "zoom": "4"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/cl.svg",
-        "flag_4x3": "flags/4x3/cl.svg"
+    "currencies": {
+      "AWG": {
+        "name": "Aruban florin",
+        "symbol": "ƒ"
+      }
     },
-    {
-        "code": "CO",
-        "cca3": "COL",
-        "name": "Colombia",
-        "capital": "Bogotá",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "COP": {
-                "name": "Colombian peso",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "3.68182320",
-            "longitude": "-73.53927436",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/co.svg",
-        "flag_4x3": "flags/4x3/co.svg"
+    "center": {
+      "latitude": "12.52109661",
+      "longitude": "-69.96833800",
+      "zoom": "12"
     },
-    {
-        "code": "CW",
-        "cca3": "CUW",
-        "name": "Curaçao",
-        "capital": "Willemstad",
-        "continent": "South America",
-        "subregion": "Caribbean",
-        "languages": {
-            "eng": "English",
-            "nld": "Dutch",
-            "pap": "Papiamento"
-        },
-        "currencies": {
-            "ANG": {
-                "name": "Netherlands Antillean guilder",
-                "symbol": "ƒ"
-            }
-        },
-        "center": {
-            "latitude": "12.20710309",
-            "longitude": "-69.02160369",
-            "zoom": "11"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/cw.svg",
-        "flag_4x3": "flags/4x3/cw.svg"
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/aw.svg",
+    "flag_4x3": "flags/4x3/aw.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          80,
+          145,
+          205
+        ],
+        "hex": "#5091cd"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          229,
+          18
+        ],
+        "hex": "#ffe512"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "red": {
+        "rgb": [
+          227,
+          24,
+          55
+        ],
+        "hex": "#e31837"
+      }
     },
-    {
-        "code": "EC",
-        "cca3": "ECU",
-        "name": "Ecuador",
-        "capital": "Quito",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "USD": {
-                "name": "United States dollar",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "-1.22919037",
-            "longitude": "-78.55693916",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ec.svg",
-        "flag_4x3": "flags/4x3/ec.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "BO",
+    "cca3": "BOL",
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "grn": "Guaraní",
+      "que": "Quechua",
+      "spa": "Spanish"
     },
-    {
-        "code": "FK",
-        "cca3": "FLK",
-        "name": "Falkland Islands",
-        "capital": "Stanley",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "FKP": {
-                "name": "Falkland Islands pound",
-                "symbol": "£"
-            }
-        },
-        "center": {
-            "latitude": "-51.78838251",
-            "longitude": "-59.52361100",
-            "zoom": "8"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/fk.svg",
-        "flag_4x3": "flags/4x3/fk.svg"
+    "currencies": {
+      "BOB": {
+        "name": "Bolivian boliviano",
+        "symbol": "Bs."
+      }
     },
-    {
-        "code": "GF",
-        "cca3": "GUF",
-        "name": "French Guiana",
-        "capital": "Cayenne",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "EUR": {
-                "name": "Euro",
-                "symbol": "€"
-            }
-        },
-        "center": {
-            "latitude": "4.01114381",
-            "longitude": "-52.97746057",
-            "zoom": "7"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/gf.svg",
-        "flag_4x3": "flags/4x3/gf.svg"
+    "center": {
+      "latitude": "-16.74518128",
+      "longitude": "-65.19265691",
+      "zoom": "6"
     },
-    {
-        "code": "GY",
-        "cca3": "GUY",
-        "name": "Guyana",
-        "capital": "Georgetown",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "GYD": {
-                "name": "Guyanese dollar",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "4.47957059",
-            "longitude": "-58.72692293",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/gy.svg",
-        "flag_4x3": "flags/4x3/gy.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/bo.svg",
+    "flag_4x3": "flags/4x3/bo.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          213,
+          43,
+          30
+        ],
+        "hex": "#d52b1e"
+      },
+      "yellow": {
+        "rgb": [
+          252,
+          209,
+          22
+        ],
+        "hex": "#fcd116"
+      },
+      "green": {
+        "rgb": [
+          0,
+          151,
+          52
+        ],
+        "hex": "#009734"
+      }
     },
-    {
-        "code": "PY",
-        "cca3": "PRY",
-        "name": "Paraguay",
-        "capital": "Asunción",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "grn": "Guaraní",
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "PYG": {
-                "name": "Paraguayan guaraní",
-                "symbol": "₲"
-            }
-        },
-        "center": {
-            "latitude": "-23.38564782",
-            "longitude": "-58.29551057",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/py.svg",
-        "flag_4x3": "flags/4x3/py.svg"
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.4667
+  },
+  {
+    "code": "BQ",
+    "cca3": "BES",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "continent": "South America",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
     },
-    {
-        "code": "PE",
-        "cca3": "PER",
-        "name": "Peru",
-        "capital": "Lima",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "aym": "Aymara",
-            "que": "Quechua",
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "PEN": {
-                "name": "Peruvian sol",
-                "symbol": "S/."
-            }
-        },
-        "center": {
-            "latitude": "-8.50205247",
-            "longitude": "-76.15772412",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/pe.svg",
-        "flag_4x3": "flags/4x3/pe.svg"
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
     },
-    {
-        "code": "SR",
-        "cca3": "SUR",
-        "name": "Suriname",
-        "capital": "Paramaribo",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "nld": "Dutch"
-        },
-        "currencies": {
-            "SRD": {
-                "name": "Surinamese dollar",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "4.26470865",
-            "longitude": "-55.93988238",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/sr.svg",
-        "flag_4x3": "flags/4x3/sr.svg"
+    "center": {
+      "latitude": "12.17229702",
+      "longitude": "-68.28831170",
+      "zoom": "11"
     },
-    {
-        "code": "TT",
-        "cca3": "TTO",
-        "name": "Trinidad and Tobago",
-        "capital": "Port of Spain",
-        "continent": "South America",
-        "subregion": "Caribbean",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "TTD": {
-                "name": "Trinidad and Tobago dollar",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "10.43241863",
-            "longitude": "-61.22250300",
-            "zoom": "10"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/tt.svg",
-        "flag_4x3": "flags/4x3/tt.svg"
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/bq.svg",
+    "flag_4x3": "flags/4x3/bq.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          174,
+          28,
+          40
+        ],
+        "hex": "#ae1c28"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "blue": {
+        "rgb": [
+          33,
+          70,
+          139
+        ],
+        "hex": "#21468b"
+      }
     },
-    {
-        "code": "UY",
-        "cca3": "URY",
-        "name": "Uruguay",
-        "capital": "Montevideo",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "UYU": {
-                "name": "Uruguayan peso",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "-32.49342987",
-            "longitude": "-55.76583300",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/uy.svg",
-        "flag_4x3": "flags/4x3/uy.svg"
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "BR",
+    "cca3": "BRA",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "por": "Portuguese"
     },
-    {
-        "code": "VE",
-        "cca3": "VEN",
-        "name": "Venezuela",
-        "capital": "Caracas",
-        "continent": "South America",
-        "subregion": "South America",
-        "languages": {
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "VES": {
-                "name": "Venezuelan bolívar soberano",
-                "symbol": "Bs.S."
-            }
-        },
-        "center": {
-            "latitude": "5.98477766",
-            "longitude": "-65.94152264",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ve.svg",
-        "flag_4x3": "flags/4x3/ve.svg"
-    }
+    "currencies": {
+      "BRL": {
+        "name": "Brazilian real",
+        "symbol": "R$"
+      }
+    },
+    "center": {
+      "latitude": "-11.80965046",
+      "longitude": "-53.33152600",
+      "zoom": "4"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/br.svg",
+    "flag_4x3": "flags/4x3/br.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          168,
+          89
+        ],
+        "hex": "#00a859"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          204,
+          41
+        ],
+        "hex": "#ffcc29"
+      },
+      "blue": {
+        "rgb": [
+          62,
+          64,
+          149
+        ],
+        "hex": "#3e4095"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.4286
+  },
+  {
+    "code": "CL",
+    "cca3": "CHL",
+    "name": "Chile",
+    "capital": "Santiago",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "CLP": {
+        "name": "Chilean peso",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "-38.01760790",
+      "longitude": "-71.40014474",
+      "zoom": "4"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/cl.svg",
+    "flag_4x3": "flags/4x3/cl.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          227,
+          24,
+          55
+        ],
+        "hex": "#e31837"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          93,
+          170
+        ],
+        "hex": "#005daa"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "CO",
+    "cca3": "COL",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "COP": {
+        "name": "Colombian peso",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "3.68182320",
+      "longitude": "-73.53927436",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/co.svg",
+    "flag_4x3": "flags/4x3/co.svg",
+    "vexillo_colors": {
+      "yellow": {
+        "rgb": [
+          252,
+          209,
+          22
+        ],
+        "hex": "#fcd116"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          56,
+          147
+        ],
+        "hex": "#003893"
+      },
+      "red": {
+        "rgb": [
+          206,
+          17,
+          38
+        ],
+        "hex": "#ce1126"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "CW",
+    "cca3": "CUW",
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "continent": "South America",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "currencies": {
+      "ANG": {
+        "name": "Netherlands Antillean guilder",
+        "symbol": "ƒ"
+      }
+    },
+    "center": {
+      "latitude": "12.20710309",
+      "longitude": "-69.02160369",
+      "zoom": "11"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/cw.svg",
+    "flag_4x3": "flags/4x3/cw.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          73,
+          144
+        ],
+        "hex": "#004990"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          242,
+          3
+        ],
+        "hex": "#fff203"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "EC",
+    "cca3": "ECU",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "-1.22919037",
+      "longitude": "-78.55693916",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ec.svg",
+    "flag_4x3": "flags/4x3/ec.svg",
+    "vexillo_colors": {
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          125,
+          195
+        ],
+        "hex": "#007dc3"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "FK",
+    "cca3": "FLK",
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "FKP": {
+        "name": "Falkland Islands pound",
+        "symbol": "£"
+      }
+    },
+    "center": {
+      "latitude": "-51.78838251",
+      "longitude": "-59.52361100",
+      "zoom": "8"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/fk.svg",
+    "flag_4x3": "flags/4x3/fk.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          36,
+          125
+        ],
+        "hex": "#00247d"
+      },
+      "red": {
+        "rgb": [
+          207,
+          20,
+          43
+        ],
+        "hex": "#cf142b"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "cross",
+      "polygon",
+      "saltire"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "GF",
+    "cca3": "GUF",
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "center": {
+      "latitude": "4.01114381",
+      "longitude": "-52.97746057",
+      "zoom": "7"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/gf.svg",
+    "flag_4x3": "flags/4x3/gf.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          240,
+          0
+        ],
+        "hex": "#00f000"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          240,
+          0
+        ],
+        "hex": "#fff000"
+      },
+      "red": {
+        "rgb": [
+          255,
+          0,
+          0
+        ],
+        "hex": "#ff0000"
+      }
+    },
+    "vexillo_design": [
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "GY",
+    "cca3": "GUY",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GYD": {
+        "name": "Guyanese dollar",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "4.47957059",
+      "longitude": "-58.72692293",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/gy.svg",
+    "flag_4x3": "flags/4x3/gy.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
+    },
+    "vexillo_design": [
+      "polygon"
+    ],
+    "vexillo_aspect": 1.6667
+  },
+  {
+    "code": "PY",
+    "cca3": "PRY",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "PYG": {
+        "name": "Paraguayan guaraní",
+        "symbol": "₲"
+      }
+    },
+    "center": {
+      "latitude": "-23.38564782",
+      "longitude": "-58.29551057",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/py.svg",
+    "flag_4x3": "flags/4x3/py.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          213,
+          43,
+          30
+        ],
+        "hex": "#d52b1e"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          56,
+          168
+        ],
+        "hex": "#0038a8"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.8182
+  },
+  {
+    "code": "PE",
+    "cca3": "PER",
+    "name": "Peru",
+    "capital": "Lima",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "PEN": {
+        "name": "Peruvian sol",
+        "symbol": "S/."
+      }
+    },
+    "center": {
+      "latitude": "-8.50205247",
+      "longitude": "-76.15772412",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/pe.svg",
+    "flag_4x3": "flags/4x3/pe.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          227,
+          24,
+          55
+        ],
+        "hex": "#e31837"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "SR",
+    "cca3": "SUR",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "nld": "Dutch"
+    },
+    "currencies": {
+      "SRD": {
+        "name": "Surinamese dollar",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "4.26470865",
+      "longitude": "-55.93988238",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/sr.svg",
+    "flag_4x3": "flags/4x3/sr.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          133,
+          63
+        ],
+        "hex": "#00853f"
+      },
+      "red": {
+        "rgb": [
+          227,
+          24,
+          55
+        ],
+        "hex": "#e31837"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          210,
+          0
+        ],
+        "hex": "#ffd200"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "TT",
+    "cca3": "TTO",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "continent": "South America",
+    "subregion": "Caribbean",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "TTD": {
+        "name": "Trinidad and Tobago dollar",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "10.43241863",
+      "longitude": "-61.22250300",
+      "zoom": "10"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/tt.svg",
+    "flag_4x3": "flags/4x3/tt.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          227,
+          24,
+          55
+        ],
+        "hex": "#e31837"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "polygon"
+    ],
+    "vexillo_aspect": 1.6667
+  },
+  {
+    "code": "UY",
+    "cca3": "URY",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "UYU": {
+        "name": "Uruguayan peso",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "-32.49342987",
+      "longitude": "-55.76583300",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/uy.svg",
+    "flag_4x3": "flags/4x3/uy.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          102,
+          204
+        ],
+        "hex": "#0066cc"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "VE",
+    "cca3": "VEN",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "continent": "South America",
+    "subregion": "South America",
+    "languages": {
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "VES": {
+        "name": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S."
+      }
+    },
+    "center": {
+      "latitude": "5.98477766",
+      "longitude": "-65.94152264",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ve.svg",
+    "flag_4x3": "flags/4x3/ve.svg",
+    "vexillo_colors": {
+      "yellow": {
+        "rgb": [
+          255,
+          242,
+          3
+        ],
+        "hex": "#fff203"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          103,
+          177
+        ],
+        "hex": "#0067b1"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "loop",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  }
 ]

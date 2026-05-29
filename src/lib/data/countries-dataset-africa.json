@@ -1,1661 +1,3740 @@
 [
-    {
-        "code": "DZ",
-        "cca3": "DZA",
-        "name": "Algeria",
-        "capital": "Algiers",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ara": "Arabic"
-        },
-        "currencies": {
-            "DZD": {
-                "name": "Algerian dinar",
-                "symbol": "د.ج"
-            }
-        },
-        "center": {
-            "latitude": "27.89861690",
-            "longitude": "3.19771194",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/dz.svg",
-        "flag_4x3": "flags/4x3/dz.svg"
+  {
+    "code": "DZ",
+    "cca3": "DZA",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
     },
-    {
-        "code": "AO",
-        "cca3": "AGO",
-        "name": "Angola",
-        "capital": "Luanda",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "por": "Portuguese"
-        },
-        "currencies": {
-            "AOA": {
-                "name": "Angolan kwanza",
-                "symbol": "Kz"
-            }
-        },
-        "center": {
-            "latitude": "-12.16469683",
-            "longitude": "16.70933622",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ao.svg",
-        "flag_4x3": "flags/4x3/ao.svg"
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "د.ج"
+      }
     },
-    {
-        "code": "BJ",
-        "cca3": "BEN",
-        "name": "Benin",
-        "capital": "Porto-Novo",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "9.37180859",
-            "longitude": "2.29386134",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/bj.svg",
-        "flag_4x3": "flags/4x3/bj.svg"
+    "center": {
+      "latitude": "27.89861690",
+      "longitude": "3.19771194",
+      "zoom": "5"
     },
-    {
-        "code": "BW",
-        "cca3": "BWA",
-        "name": "Botswana",
-        "capital": "Gaborone",
-        "continent": "Africa",
-        "subregion": "Southern Africa",
-        "languages": {
-            "eng": "English",
-            "tsn": "Tswana"
-        },
-        "currencies": {
-            "BWP": {
-                "name": "Botswana pula",
-                "symbol": "P"
-            }
-        },
-        "center": {
-            "latitude": "-22.18279485",
-            "longitude": "24.22344422",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/bw.svg",
-        "flag_4x3": "flags/4x3/bw.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/dz.svg",
+    "flag_4x3": "flags/4x3/dz.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          134,
+          75
+        ],
+        "hex": "#00864b"
+      },
+      "red": {
+        "rgb": [
+          227,
+          61,
+          58
+        ],
+        "hex": "#e33d3a"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
     },
-    {
-        "code": "BF",
-        "cca3": "BFA",
-        "name": "Burkina Faso",
-        "capital": "Ouagadougou",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "12.22492458",
-            "longitude": "-1.56159100",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/bf.svg",
-        "flag_4x3": "flags/4x3/bf.svg"
+    "vexillo_design": [
+      "symbol",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "AO",
+    "cca3": "AGO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
     },
-    {
-        "code": "BI",
-        "cca3": "BDI",
-        "name": "Burundi",
-        "capital": "Bujumbura",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "fra": "French",
-            "run": "Kirundi"
-        },
-        "currencies": {
-            "BIF": {
-                "name": "Burundian franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "-3.40499707",
-            "longitude": "29.88592902",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/bi.svg",
-        "flag_4x3": "flags/4x3/bi.svg"
+    "currencies": {
+      "AOA": {
+        "name": "Angolan kwanza",
+        "symbol": "Kz"
+      }
     },
-    {
-        "code": "CV",
-        "cca3": "CPV",
-        "name": "Cabo Verde",
-        "capital": "Praia",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "por": "Portuguese"
-        },
-        "currencies": {
-            "CVE": {
-                "name": "Cape Verdean escudo",
-                "symbol": "Esc"
-            }
-        },
-        "center": {
-            "latitude": "15.11988711",
-            "longitude": "-23.60517010",
-            "zoom": "10"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/cv.svg",
-        "flag_4x3": "flags/4x3/cv.svg"
+    "center": {
+      "latitude": "-12.16469683",
+      "longitude": "16.70933622",
+      "zoom": "6"
     },
-    {
-        "code": "CM",
-        "cca3": "CMR",
-        "name": "Cameroon",
-        "capital": "Yaoundé",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "eng": "English",
-            "fra": "French"
-        },
-        "currencies": {
-            "XAF": {
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "7.38622543",
-            "longitude": "12.72825915",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/cm.svg",
-        "flag_4x3": "flags/4x3/cm.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ao.svg",
+    "flag_4x3": "flags/4x3/ao.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          227,
+          24,
+          55
+        ],
+        "hex": "#e31837"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
     },
-    {
-        "code": "CF",
-        "cca3": "CAF",
-        "name": "Central African Republic",
-        "capital": "Bangui",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "fra": "French",
-            "sag": "Sango"
-        },
-        "currencies": {
-            "XAF": {
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "6.82541830",
-            "longitude": "20.64281514",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/cf.svg",
-        "flag_4x3": "flags/4x3/cf.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "BJ",
+    "cca3": "BEN",
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
     },
-    {
-        "code": "TD",
-        "cca3": "TCD",
-        "name": "Chad",
-        "capital": "N'Djamena",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "ara": "Arabic",
-            "fra": "French"
-        },
-        "currencies": {
-            "XAF": {
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "14.80342407",
-            "longitude": "18.78714064",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/td.svg",
-        "flag_4x3": "flags/4x3/td.svg"
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "KM",
-        "cca3": "COM",
-        "name": "Comoros",
-        "capital": "Moroni",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "ara": "Arabic",
-            "fra": "French",
-            "zdj": "Comorian"
-        },
-        "currencies": {
-            "KMF": {
-                "name": "Comorian franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "-11.64529989",
-            "longitude": "43.33330200",
-            "zoom": "10"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/km.svg",
-        "flag_4x3": "flags/4x3/km.svg"
+    "center": {
+      "latitude": "9.37180859",
+      "longitude": "2.29386134",
+      "zoom": "7"
     },
-    {
-        "code": "CI",
-        "cca3": "CIV",
-        "name": "Côte d'Ivoire",
-        "capital": "Yamoussoukro",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "7.59684148",
-            "longitude": "-5.49214636",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ci.svg",
-        "flag_4x3": "flags/4x3/ci.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/bj.svg",
+    "flag_4x3": "flags/4x3/bj.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
     },
-    {
-        "code": "CD",
-        "cca3": "COD",
-        "name": "Democratic Republic of the Congo",
-        "capital": "Kinshasa",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "fra": "French",
-            "kon": "Kikongo",
-            "lin": "Lingala",
-            "lua": "Tshiluba",
-            "swa": "Swahili"
-        },
-        "currencies": {
-            "CDF": {
-                "name": "Congolese franc",
-                "symbol": "FC"
-            }
-        },
-        "center": {
-            "latitude": "-4.05373938",
-            "longitude": "23.01110741",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/cd.svg",
-        "flag_4x3": "flags/4x3/cd.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "BW",
+    "cca3": "BWA",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
     },
-    {
-        "code": "DJ",
-        "cca3": "DJI",
-        "name": "Djibouti",
-        "capital": "Djibouti",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "ara": "Arabic",
-            "fra": "French"
-        },
-        "currencies": {
-            "DJF": {
-                "name": "Djiboutian franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "11.75959257",
-            "longitude": "42.65344839",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/dj.svg",
-        "flag_4x3": "flags/4x3/dj.svg"
+    "currencies": {
+      "BWP": {
+        "name": "Botswana pula",
+        "symbol": "P"
+      }
     },
-    {
-        "code": "EG",
-        "cca3": "EGY",
-        "name": "Egypt",
-        "capital": "Cairo",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ara": "Arabic"
-        },
-        "currencies": {
-            "EGP": {
-                "name": "Egyptian pound",
-                "symbol": "£"
-            }
-        },
-        "center": {
-            "latitude": "26.71650873",
-            "longitude": "30.80250000",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/eg.svg",
-        "flag_4x3": "flags/4x3/eg.svg"
+    "center": {
+      "latitude": "-22.18279485",
+      "longitude": "24.22344422",
+      "zoom": "6"
     },
-    {
-        "code": "GQ",
-        "cca3": "GNQ",
-        "name": "Equatorial Guinea",
-        "capital": "Malabo",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "fra": "French",
-            "por": "Portuguese",
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "XAF": {
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "1.65068442",
-            "longitude": "10.26789700",
-            "zoom": "9"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/gq.svg",
-        "flag_4x3": "flags/4x3/gq.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/bw.svg",
+    "flag_4x3": "flags/4x3/bw.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          181,
+          213,
+          240
+        ],
+        "hex": "#b5d5f0"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
     },
-    {
-        "code": "ER",
-        "cca3": "ERI",
-        "name": "Eritrea",
-        "capital": "Asmara",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "ara": "Arabic",
-            "eng": "English",
-            "tir": "Tigrinya"
-        },
-        "currencies": {
-            "ERN": {
-                "name": "Eritrean nakfa",
-                "symbol": "Nfk"
-            }
-        },
-        "center": {
-            "latitude": "15.21227764",
-            "longitude": "39.61204792",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/er.svg",
-        "flag_4x3": "flags/4x3/er.svg"
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "BF",
+    "cca3": "BFA",
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
     },
-    {
-        "code": "SZ",
-        "cca3": "SWZ",
-        "name": "Eswatini",
-        "capital": "Lobamba, Mbabane",
-        "continent": "Africa",
-        "subregion": "Southern Africa",
-        "languages": {
-            "eng": "English",
-            "ssw": "Swazi"
-        },
-        "currencies": {
-            "SZL": {
-                "name": "Swazi lilangeni",
-                "symbol": "L"
-            },
-            "ZAR": {
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        },
-        "center": {
-            "latitude": "-26.53892570",
-            "longitude": "31.47960891",
-            "zoom": "9"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/sz.svg",
-        "flag_4x3": "flags/4x3/sz.svg"
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "ET",
-        "cca3": "ETH",
-        "name": "Ethiopia",
-        "capital": "Addis Ababa",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "amh": "Amharic"
-        },
-        "currencies": {
-            "ETB": {
-                "name": "Ethiopian birr",
-                "symbol": "Br"
-            }
-        },
-        "center": {
-            "latitude": "9.10727589",
-            "longitude": "39.84148164",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/et.svg",
-        "flag_4x3": "flags/4x3/et.svg"
+    "center": {
+      "latitude": "12.22492458",
+      "longitude": "-1.56159100",
+      "zoom": "7"
     },
-    {
-        "code": "TF",
-        "cca3": "ATF",
-        "name": "French Southern Territories",
-        "capital": "Saint-Pierre, Réunion",
-        "continent": "Africa",
-        "subregion": "",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "EUR": {
-                "name": "Euro",
-                "symbol": "€"
-            }
-        },
-        "center": {
-            "latitude": "-49.27235903",
-            "longitude": "69.34856300",
-            "zoom": "8"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/tf.svg",
-        "flag_4x3": "flags/4x3/tf.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/bf.svg",
+    "flag_4x3": "flags/4x3/bf.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          43,
+          45
+        ],
+        "hex": "#ef2b2d"
+      },
+      "green": {
+        "rgb": [
+          0,
+          158,
+          73
+        ],
+        "hex": "#009e49"
+      },
+      "yellow": {
+        "rgb": [
+          252,
+          209,
+          22
+        ],
+        "hex": "#fcd116"
+      }
     },
-    {
-        "code": "GA",
-        "cca3": "GAB",
-        "name": "Gabon",
-        "capital": "Libreville",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XAF": {
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "-0.43426435",
-            "longitude": "11.43916591",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ga.svg",
-        "flag_4x3": "flags/4x3/ga.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "BI",
+    "cca3": "BDI",
+    "name": "Burundi",
+    "capital": "Bujumbura",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
     },
-    {
-        "code": "GM",
-        "cca3": "GMB",
-        "name": "Gambia",
-        "capital": "Banjul",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "GMD": {
-                "name": "dalasi",
-                "symbol": "D"
-            }
-        },
-        "center": {
-            "latitude": "13.15921146",
-            "longitude": "-15.35956748",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/gm.svg",
-        "flag_4x3": "flags/4x3/gm.svg"
+    "currencies": {
+      "BIF": {
+        "name": "Burundian franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "GH",
-        "cca3": "GHA",
-        "name": "Ghana",
-        "capital": "Accra",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "GHS": {
-                "name": "Ghanaian cedi",
-                "symbol": "₵"
-            }
-        },
-        "center": {
-            "latitude": "7.69154199",
-            "longitude": "-1.29234904",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/gh.svg",
-        "flag_4x3": "flags/4x3/gh.svg"
+    "center": {
+      "latitude": "-3.40499707",
+      "longitude": "29.88592902",
+      "zoom": "8"
     },
-    {
-        "code": "GN",
-        "cca3": "GIN",
-        "name": "Guinea",
-        "capital": "Conakry",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "GNF": {
-                "name": "Guinean franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "9.94301472",
-            "longitude": "-11.31711839",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/gn.svg",
-        "flag_4x3": "flags/4x3/gn.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/bi.svg",
+    "flag_4x3": "flags/4x3/bi.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          227,
+          61,
+          58
+        ],
+        "hex": "#e33d3a"
+      },
+      "green": {
+        "rgb": [
+          0,
+          178,
+          89
+        ],
+        "hex": "#00b259"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
     },
-    {
-        "code": "GW",
-        "cca3": "GNB",
-        "name": "Guinea-Bissau",
-        "capital": "Bissau",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "por": "Portuguese",
-            "pov": "Upper Guinea Creole"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "11.80050682",
-            "longitude": "-15.18040700",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/gw.svg",
-        "flag_4x3": "flags/4x3/gw.svg"
+    "vexillo_design": [
+      "disc",
+      "polygon",
+      "saltire",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.6667
+  },
+  {
+    "code": "CV",
+    "cca3": "CPV",
+    "name": "Cabo Verde",
+    "capital": "Praia",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "por": "Portuguese"
     },
-    {
-        "code": "KE",
-        "cca3": "KEN",
-        "name": "Kenya",
-        "capital": "Nairobi",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English",
-            "swa": "Swahili"
-        },
-        "currencies": {
-            "KES": {
-                "name": "Kenyan shilling",
-                "symbol": "Sh"
-            }
-        },
-        "center": {
-            "latitude": "0.19582452",
-            "longitude": "37.97212297",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ke.svg",
-        "flag_4x3": "flags/4x3/ke.svg"
+    "currencies": {
+      "CVE": {
+        "name": "Cape Verdean escudo",
+        "symbol": "Esc"
+      }
     },
-    {
-        "code": "LS",
-        "cca3": "LSO",
-        "name": "Lesotho",
-        "capital": "Maseru",
-        "continent": "Africa",
-        "subregion": "Southern Africa",
-        "languages": {
-            "eng": "English",
-            "sot": "Sotho"
-        },
-        "currencies": {
-            "LSL": {
-                "name": "Lesotho loti",
-                "symbol": "L"
-            },
-            "ZAR": {
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        },
-        "center": {
-            "latitude": "-29.60303205",
-            "longitude": "28.23361200",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ls.svg",
-        "flag_4x3": "flags/4x3/ls.svg"
+    "center": {
+      "latitude": "15.11988711",
+      "longitude": "-23.60517010",
+      "zoom": "10"
     },
-    {
-        "code": "LR",
-        "cca3": "LBR",
-        "name": "Liberia",
-        "capital": "Monrovia",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "LRD": {
-                "name": "Liberian dollar",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "6.44154681",
-            "longitude": "-9.39103485",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/lr.svg",
-        "flag_4x3": "flags/4x3/lr.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/cv.svg",
+    "flag_4x3": "flags/4x3/cv.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          56,
+          147
+        ],
+        "hex": "#003893"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "red": {
+        "rgb": [
+          207,
+          32,
+          39
+        ],
+        "hex": "#cf2027"
+      },
+      "yellow": {
+        "rgb": [
+          247,
+          209,
+          22
+        ],
+        "hex": "#f7d116"
+      }
     },
-    {
-        "code": "LY",
-        "cca3": "LBY",
-        "name": "Libya",
-        "capital": "Tripoli",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ara": "Arabic"
-        },
-        "currencies": {
-            "LYD": {
-                "name": "Libyan dinar",
-                "symbol": "ل.د"
-            }
-        },
-        "center": {
-            "latitude": "27.06902914",
-            "longitude": "18.19513987",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ly.svg",
-        "flag_4x3": "flags/4x3/ly.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "loop",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "CM",
+    "cca3": "CMR",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "eng": "English",
+      "fra": "French"
     },
-    {
-        "code": "MG",
-        "cca3": "MDG",
-        "name": "Madagascar",
-        "capital": "Antananarivo",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "fra": "French",
-            "mlg": "Malagasy"
-        },
-        "currencies": {
-            "MGA": {
-                "name": "Malagasy ariary",
-                "symbol": "Ar"
-            }
-        },
-        "center": {
-            "latitude": "-19.79858543",
-            "longitude": "46.97898228",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/mg.svg",
-        "flag_4x3": "flags/4x3/mg.svg"
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "MW",
-        "cca3": "MWI",
-        "name": "Malawi",
-        "capital": "Lilongwe",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English",
-            "nya": "Chewa"
-        },
-        "currencies": {
-            "MWK": {
-                "name": "Malawian kwacha",
-                "symbol": "MK"
-            }
-        },
-        "center": {
-            "latitude": "-12.48684092",
-            "longitude": "34.14223524",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/mw.svg",
-        "flag_4x3": "flags/4x3/mw.svg"
+    "center": {
+      "latitude": "7.38622543",
+      "longitude": "12.72825915",
+      "zoom": "6"
     },
-    {
-        "code": "ML",
-        "cca3": "MLI",
-        "name": "Mali",
-        "capital": "Bamako",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "17.69385811",
-            "longitude": "-1.96368730",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ml.svg",
-        "flag_4x3": "flags/4x3/ml.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/cm.svg",
+    "flag_4x3": "flags/4x3/cm.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      }
     },
-    {
-        "code": "MR",
-        "cca3": "MRT",
-        "name": "Mauritania",
-        "capital": "Nouakchott",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "ara": "Arabic"
-        },
-        "currencies": {
-            "MRU": {
-                "name": "Mauritanian ouguiya",
-                "symbol": "UM"
-            }
-        },
-        "center": {
-            "latitude": "20.28331239",
-            "longitude": "-10.21573334",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/mr.svg",
-        "flag_4x3": "flags/4x3/mr.svg"
+    "vexillo_design": [
+      "symbol",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "CF",
+    "cca3": "CAF",
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
     },
-    {
-        "code": "MU",
-        "cca3": "MUS",
-        "name": "Mauritius",
-        "capital": "Port Louis",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English",
-            "fra": "French",
-            "mfe": "Mauritian Creole"
-        },
-        "currencies": {
-            "MUR": {
-                "name": "Mauritian rupee",
-                "symbol": "₨"
-            }
-        },
-        "center": {
-            "latitude": "-20.28368188",
-            "longitude": "57.56588291",
-            "zoom": "10"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/mu.svg",
-        "flag_4x3": "flags/4x3/mu.svg"
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "YT",
-        "cca3": "MYT",
-        "name": "Mayotte",
-        "capital": "Mamoudzou",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "EUR": {
-                "name": "Euro",
-                "symbol": "€"
-            }
-        },
-        "center": {
-            "latitude": "-12.82744522",
-            "longitude": "45.16624200",
-            "zoom": "11"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/yt.svg",
-        "flag_4x3": "flags/4x3/yt.svg"
+    "center": {
+      "latitude": "6.82541830",
+      "longitude": "20.64281514",
+      "zoom": "6"
     },
-    {
-        "code": "MA",
-        "cca3": "MAR",
-        "name": "Morocco",
-        "capital": "Rabat",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ara": "Arabic",
-            "ber": "Berber"
-        },
-        "currencies": {
-            "MAD": {
-                "name": "Moroccan dirham",
-                "symbol": "د.م."
-            }
-        },
-        "center": {
-            "latitude": "31.95441758",
-            "longitude": "-7.26839325",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ma.svg",
-        "flag_4x3": "flags/4x3/ma.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/cf.svg",
+    "flag_4x3": "flags/4x3/cf.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          103,
+          177
+        ],
+        "hex": "#0067b1"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
     },
-    {
-        "code": "MZ",
-        "cca3": "MOZ",
-        "name": "Mozambique",
-        "capital": "Maputo",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "por": "Portuguese"
-        },
-        "currencies": {
-            "MZN": {
-                "name": "Mozambican metical",
-                "symbol": "MT"
-            }
-        },
-        "center": {
-            "latitude": "-19.07617816",
-            "longitude": "33.81570282",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/mz.svg",
-        "flag_4x3": "flags/4x3/mz.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.6667
+  },
+  {
+    "code": "TD",
+    "cca3": "TCD",
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
     },
-    {
-        "code": "NA",
-        "cca3": "NAM",
-        "name": "Namibia",
-        "capital": "Windhoek",
-        "continent": "Africa",
-        "subregion": "Southern Africa",
-        "languages": {
-            "afr": "Afrikaans",
-            "deu": "German",
-            "eng": "English",
-            "her": "Herero",
-            "hgm": "Khoekhoe",
-            "kwn": "Kwangali",
-            "loz": "Lozi",
-            "ndo": "Ndonga",
-            "tsn": "Tswana"
-        },
-        "currencies": {
-            "NAD": {
-                "name": "Namibian dollar",
-                "symbol": "$"
-            },
-            "ZAR": {
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        },
-        "center": {
-            "latitude": "-22.70965620",
-            "longitude": "16.72161918",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/na.svg",
-        "flag_4x3": "flags/4x3/na.svg"
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "NE",
-        "cca3": "NER",
-        "name": "Niger",
-        "capital": "Niamey",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "17.23446679",
-            "longitude": "8.23547860",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ne.svg",
-        "flag_4x3": "flags/4x3/ne.svg"
+    "center": {
+      "latitude": "14.80342407",
+      "longitude": "18.78714064",
+      "zoom": "5"
     },
-    {
-        "code": "NG",
-        "cca3": "NGA",
-        "name": "Nigeria",
-        "capital": "Abuja",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "NGN": {
-                "name": "Nigerian naira",
-                "symbol": "₦"
-            }
-        },
-        "center": {
-            "latitude": "9.02165273",
-            "longitude": "7.82933373",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ng.svg",
-        "flag_4x3": "flags/4x3/ng.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/td.svg",
+    "flag_4x3": "flags/4x3/td.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          12,
+          28,
+          140
+        ],
+        "hex": "#0c1c8c"
+      },
+      "yellow": {
+        "rgb": [
+          252,
+          209,
+          22
+        ],
+        "hex": "#fcd116"
+      },
+      "red": {
+        "rgb": [
+          206,
+          17,
+          38
+        ],
+        "hex": "#ce1126"
+      }
     },
-    {
-        "code": "CG",
-        "cca3": "COG",
-        "name": "Republic of the Congo",
-        "capital": "Brazzaville",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "fra": "French",
-            "kon": "Kikongo",
-            "lin": "Lingala"
-        },
-        "currencies": {
-            "XAF": {
-                "name": "Central African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "-0.68967806",
-            "longitude": "15.69033190",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/cg.svg",
-        "flag_4x3": "flags/4x3/cg.svg"
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "KM",
+    "cca3": "COM",
+    "name": "Comoros",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
     },
-    {
-        "code": "RW",
-        "cca3": "RWA",
-        "name": "Rwanda",
-        "capital": "Kigali",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English",
-            "fra": "French",
-            "kin": "Kinyarwanda"
-        },
-        "currencies": {
-            "RWF": {
-                "name": "Rwandan franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "-1.98589079",
-            "longitude": "29.94255855",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/rw.svg",
-        "flag_4x3": "flags/4x3/rw.svg"
+    "currencies": {
+      "KMF": {
+        "name": "Comorian franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "RE",
-        "cca3": "REU",
-        "name": "Réunion",
-        "capital": "Saint-Denis",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "EUR": {
-                "name": "Euro",
-                "symbol": "€"
-            }
-        },
-        "center": {
-            "latitude": "-21.11480084",
-            "longitude": "55.53638200",
-            "zoom": "10"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/re.svg",
-        "flag_4x3": "flags/4x3/re.svg"
+    "center": {
+      "latitude": "-11.64529989",
+      "longitude": "43.33330200",
+      "zoom": "10"
     },
-    {
-        "code": "SH",
-        "cca3": "SHN",
-        "name": "Saint Helena, Ascension and Tristan da Cunha",
-        "capital": "Jamestown",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "GBP": {
-                "name": "Pound sterling",
-                "symbol": "£"
-            },
-            "SHP": {
-                "name": "Saint Helena pound",
-                "symbol": "£"
-            }
-        },
-        "center": {
-            "latitude": "-37.10521846",
-            "longitude": "-12.27768580",
-            "zoom": "12"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/sh.svg",
-        "flag_4x3": "flags/4x3/sh.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/km.svg",
+    "flag_4x3": "flags/4x3/km.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          61,
+          142,
+          51
+        ],
+        "hex": "#3d8e33"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          198,
+          30
+        ],
+        "hex": "#ffc61e"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "red": {
+        "rgb": [
+          206,
+          17,
+          38
+        ],
+        "hex": "#ce1126"
+      },
+      "blue": {
+        "rgb": [
+          58,
+          117,
+          196
+        ],
+        "hex": "#3a75c4"
+      }
     },
-    {
-        "code": "ST",
-        "cca3": "STP",
-        "name": "Sao Tome and Principe",
-        "capital": "São Tomé",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "por": "Portuguese"
-        },
-        "currencies": {
-            "STN": {
-                "name": "São Tomé and Príncipe dobra",
-                "symbol": "Db"
-            }
-        },
-        "center": {
-            "latitude": "0.23381910",
-            "longitude": "6.59935809",
-            "zoom": "10"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/st.svg",
-        "flag_4x3": "flags/4x3/st.svg"
+    "vexillo_design": [
+      "disc",
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.6667
+  },
+  {
+    "code": "CI",
+    "cca3": "CIV",
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
     },
-    {
-        "code": "SN",
-        "cca3": "SEN",
-        "name": "Senegal",
-        "capital": "Dakar",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "14.43579003",
-            "longitude": "-14.68306489",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/sn.svg",
-        "flag_4x3": "flags/4x3/sn.svg"
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "SC",
-        "cca3": "SYC",
-        "name": "Seychelles",
-        "capital": "Victoria",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "crs": "Seychellois Creole",
-            "eng": "English",
-            "fra": "French"
-        },
-        "currencies": {
-            "SCR": {
-                "name": "Seychellois rupee",
-                "symbol": "₨"
-            }
-        },
-        "center": {
-            "latitude": "-4.68053204",
-            "longitude": "55.49061371",
-            "zoom": "11"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/sc.svg",
-        "flag_4x3": "flags/4x3/sc.svg"
+    "center": {
+      "latitude": "7.59684148",
+      "longitude": "-5.49214636",
+      "zoom": "7"
     },
-    {
-        "code": "SL",
-        "cca3": "SLE",
-        "name": "Sierra Leone",
-        "capital": "Freetown",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "SLL": {
-                "name": "Sierra Leonean leone",
-                "symbol": "Le"
-            }
-        },
-        "center": {
-            "latitude": "8.45575589",
-            "longitude": "-11.93368759",
-            "zoom": "8"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/sl.svg",
-        "flag_4x3": "flags/4x3/sl.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ci.svg",
+    "flag_4x3": "flags/4x3/ci.svg",
+    "vexillo_colors": {
+      "orange": {
+        "rgb": [
+          248,
+          151,
+          40
+        ],
+        "hex": "#f89728"
+      },
+      "green": {
+        "rgb": [
+          0,
+          161,
+          96
+        ],
+        "hex": "#00a160"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
     },
-    {
-        "code": "SO",
-        "cca3": "SOM",
-        "name": "Somalia",
-        "capital": "Mogadishu",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "ara": "Arabic",
-            "som": "Somali"
-        },
-        "currencies": {
-            "SOS": {
-                "name": "Somali shilling",
-                "symbol": "Sh"
-            }
-        },
-        "center": {
-            "latitude": "2.87224619",
-            "longitude": "45.27676444",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/so.svg",
-        "flag_4x3": "flags/4x3/so.svg"
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "CD",
+    "cca3": "COD",
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala",
+      "lua": "Tshiluba",
+      "swa": "Swahili"
     },
-    {
-        "code": "ZA",
-        "cca3": "ZAF",
-        "name": "South Africa",
-        "capital": "Pretoria",
-        "continent": "Africa",
-        "subregion": "Southern Africa",
-        "languages": {
-            "afr": "Afrikaans",
-            "eng": "English",
-            "nbl": "Southern Ndebele",
-            "nso": "Northern Sotho",
-            "sot": "Southern Sotho",
-            "ssw": "Swazi",
-            "tsn": "Tswana",
-            "tso": "Tsonga",
-            "ven": "Venda",
-            "xho": "Xhosa",
-            "zul": "Zulu"
-        },
-        "currencies": {
-            "ZAR": {
-                "name": "South African rand",
-                "symbol": "R"
-            }
-        },
-        "center": {
-            "latitude": "-27.17706863",
-            "longitude": "24.50856092",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/za.svg",
-        "flag_4x3": "flags/4x3/za.svg"
+    "currencies": {
+      "CDF": {
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
     },
-    {
-        "code": "SS",
-        "cca3": "SSD",
-        "name": "South Sudan",
-        "capital": "Juba",
-        "continent": "Africa",
-        "subregion": "Middle Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "SSP": {
-                "name": "South Sudanese pound",
-                "symbol": "£"
-            }
-        },
-        "center": {
-            "latitude": "7.91320803",
-            "longitude": "30.15342434",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ss.svg",
-        "flag_4x3": "flags/4x3/ss.svg"
+    "center": {
+      "latitude": "-4.05373938",
+      "longitude": "23.01110741",
+      "zoom": "5"
     },
-    {
-        "code": "SD",
-        "cca3": "SDN",
-        "name": "Sudan",
-        "capital": "Khartoum",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ara": "Arabic",
-            "eng": "English"
-        },
-        "currencies": {
-            "SDG": {
-                "name": "Sudanese pound",
-                "symbol": "PT"
-            }
-        },
-        "center": {
-            "latitude": "15.96646839",
-            "longitude": "30.37145459",
-            "zoom": "5"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/sd.svg",
-        "flag_4x3": "flags/4x3/sd.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/cd.svg",
+    "flag_4x3": "flags/4x3/cd.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          147,
+          208
+        ],
+        "hex": "#0093d0"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
     },
-    {
-        "code": "TZ",
-        "cca3": "TZA",
-        "name": "Tanzania",
-        "capital": "Dodoma",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English",
-            "swa": "Swahili"
-        },
-        "currencies": {
-            "TZS": {
-                "name": "Tanzanian shilling",
-                "symbol": "Sh"
-            }
-        },
-        "center": {
-            "latitude": "-6.37551085",
-            "longitude": "34.85587302",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/tz.svg",
-        "flag_4x3": "flags/4x3/tz.svg"
+    "vexillo_design": [
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.3333
+  },
+  {
+    "code": "DJ",
+    "cca3": "DJI",
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
     },
-    {
-        "code": "TG",
-        "cca3": "TGO",
-        "name": "Togo",
-        "capital": "Lomé",
-        "continent": "Africa",
-        "subregion": "Western Africa",
-        "languages": {
-            "fra": "French"
-        },
-        "currencies": {
-            "XOF": {
-                "name": "West African CFA franc",
-                "symbol": "Fr"
-            }
-        },
-        "center": {
-            "latitude": "8.68089206",
-            "longitude": "0.86049757",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/tg.svg",
-        "flag_4x3": "flags/4x3/tg.svg"
+    "currencies": {
+      "DJF": {
+        "name": "Djiboutian franc",
+        "symbol": "Fr"
+      }
     },
-    {
-        "code": "TN",
-        "cca3": "TUN",
-        "name": "Tunisia",
-        "capital": "Tunis",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ara": "Arabic"
-        },
-        "currencies": {
-            "TND": {
-                "name": "Tunisian dinar",
-                "symbol": "د.ت"
-            }
-        },
-        "center": {
-            "latitude": "33.88431940",
-            "longitude": "9.71878341",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/tn.svg",
-        "flag_4x3": "flags/4x3/tn.svg"
+    "center": {
+      "latitude": "11.75959257",
+      "longitude": "42.65344839",
+      "zoom": "8"
     },
-    {
-        "code": "UG",
-        "cca3": "UGA",
-        "name": "Uganda",
-        "capital": "Kampala",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English",
-            "swa": "Swahili"
-        },
-        "currencies": {
-            "UGX": {
-                "name": "Ugandan shilling",
-                "symbol": "Sh"
-            }
-        },
-        "center": {
-            "latitude": "1.54760620",
-            "longitude": "32.44409759",
-            "zoom": "7"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/ug.svg",
-        "flag_4x3": "flags/4x3/ug.svg"
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/dj.svg",
+    "flag_4x3": "flags/4x3/dj.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          121,
+          189,
+          232
+        ],
+        "hex": "#79bde8"
+      },
+      "green": {
+        "rgb": [
+          84,
+          185,
+          72
+        ],
+        "hex": "#54b948"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
     },
-    {
-        "code": "EH",
-        "cca3": "ESH",
-        "name": "Western Sahara",
-        "capital": "Laayoune",
-        "continent": "Africa",
-        "subregion": "Northern Africa",
-        "languages": {
-            "ber": "Berber",
-            "mey": "Hassaniya",
-            "spa": "Spanish"
-        },
-        "currencies": {
-            "DZD": {
-                "name": "Algerian dinar",
-                "symbol": "دج"
-            },
-            "MAD": {
-                "name": "Moroccan dirham",
-                "symbol": "DH"
-            },
-            "MRU": {
-                "name": "Mauritanian ouguiya",
-                "symbol": "UM"
-            }
-        },
-        "center": {
-            "latitude": "24.79324356",
-            "longitude": "-13.67683563",
-            "zoom": "6"
-        },
-        "unMember": false,
-        "independent": false,
-        "flag_1x1": "flags/1x1/eh.svg",
-        "flag_4x3": "flags/4x3/eh.svg"
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "EG",
+    "cca3": "EGY",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
     },
-    {
-        "code": "ZM",
-        "cca3": "ZMB",
-        "name": "Zambia",
-        "capital": "Lusaka",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "eng": "English"
-        },
-        "currencies": {
-            "ZMW": {
-                "name": "Zambian kwacha",
-                "symbol": "ZK"
-            }
-        },
-        "center": {
-            "latitude": "-13.01812188",
-            "longitude": "28.33274444",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/zm.svg",
-        "flag_4x3": "flags/4x3/zm.svg"
+    "currencies": {
+      "EGP": {
+        "name": "Egyptian pound",
+        "symbol": "£"
+      }
     },
-    {
-        "code": "ZW",
-        "cca3": "ZWE",
-        "name": "Zimbabwe",
-        "capital": "Harare",
-        "continent": "Africa",
-        "subregion": "Eastern Africa",
-        "languages": {
-            "bwg": "Chibarwe",
-            "eng": "English",
-            "kck": "Kalanga",
-            "khi": "Khoisan",
-            "ndc": "Ndau",
-            "nde": "Northern Ndebele",
-            "nya": "Chewa",
-            "sna": "Shona",
-            "sot": "Sotho",
-            "toi": "Tonga",
-            "tsn": "Tswana",
-            "tso": "Tsonga",
-            "ven": "Venda",
-            "xho": "Xhosa",
-            "zib": "Zimbabwean Sign Language"
-        },
-        "currencies": {
-            "BWP": {
-                "name": "Botswana pula",
-                "symbol": "P"
-            },
-            "CNY": {
-                "name": "Chinese yuan",
-                "symbol": "¥"
-            },
-            "EUR": {
-                "name": "Euro",
-                "symbol": "€"
-            },
-            "GBP": {
-                "name": "British pound",
-                "symbol": "£"
-            },
-            "INR": {
-                "name": "Indian rupee",
-                "symbol": "₹"
-            },
-            "JPY": {
-                "name": "Japanese yen",
-                "symbol": "¥"
-            },
-            "USD": {
-                "name": "United States dollar",
-                "symbol": "$"
-            },
-            "ZAR": {
-                "name": "South African rand",
-                "symbol": "Rs"
-            },
-            "ZWB": {
-                "name": "Zimbabwean bonds",
-                "symbol": "$"
-            }
-        },
-        "center": {
-            "latitude": "-19.00784952",
-            "longitude": "30.18758584",
-            "zoom": "6"
-        },
-        "unMember": true,
-        "independent": true,
-        "flag_1x1": "flags/1x1/zw.svg",
-        "flag_4x3": "flags/4x3/zw.svg"
-    }
+    "center": {
+      "latitude": "26.71650873",
+      "longitude": "30.80250000",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/eg.svg",
+    "flag_4x3": "flags/4x3/eg.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "GQ",
+    "cca3": "GNQ",
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "1.65068442",
+      "longitude": "10.26789700",
+      "zoom": "9"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/gq.svg",
+    "flag_4x3": "flags/4x3/gq.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          103,
+          177
+        ],
+        "hex": "#0067b1"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "ER",
+    "cca3": "ERI",
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "currencies": {
+      "ERN": {
+        "name": "Eritrean nakfa",
+        "symbol": "Nfk"
+      }
+    },
+    "center": {
+      "latitude": "15.21227764",
+      "longitude": "39.61204792",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/er.svg",
+    "flag_4x3": "flags/4x3/er.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          84,
+          185,
+          72
+        ],
+        "hex": "#54b948"
+      },
+      "red": {
+        "rgb": [
+          239,
+          62,
+          66
+        ],
+        "hex": "#ef3e42"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          196,
+          37
+        ],
+        "hex": "#ffc425"
+      },
+      "blue": {
+        "rgb": [
+          80,
+          145,
+          205
+        ],
+        "hex": "#5091cd"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "SZ",
+    "cca3": "SWZ",
+    "name": "Eswatini",
+    "capital": "Lobamba, Mbabane",
+    "continent": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "ssw": "Swazi"
+    },
+    "currencies": {
+      "SZL": {
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "center": {
+      "latitude": "-26.53892570",
+      "longitude": "31.47960891",
+      "zoom": "9"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/sz.svg",
+    "flag_4x3": "flags/4x3/sz.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          103,
+          177
+        ],
+        "hex": "#0067b1"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          210,
+          0
+        ],
+        "hex": "#ffd200"
+      },
+      "red": {
+        "rgb": [
+          179,
+          8,
+          56
+        ],
+        "hex": "#b30838"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "ET",
+    "cca3": "ETH",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "amh": "Amharic"
+    },
+    "currencies": {
+      "ETB": {
+        "name": "Ethiopian birr",
+        "symbol": "Br"
+      }
+    },
+    "center": {
+      "latitude": "9.10727589",
+      "longitude": "39.84148164",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/et.svg",
+    "flag_4x3": "flags/4x3/et.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          161,
+          96
+        ],
+        "hex": "#00a160"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          242,
+          0
+        ],
+        "hex": "#fff200"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          182,
+          222
+        ],
+        "hex": "#00b6de"
+      }
+    },
+    "vexillo_design": [
+      "disc",
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "TF",
+    "cca3": "ATF",
+    "name": "French Southern Territories",
+    "capital": "Saint-Pierre, Réunion",
+    "continent": "Africa",
+    "subregion": "",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "center": {
+      "latitude": "-49.27235903",
+      "longitude": "69.34856300",
+      "zoom": "8"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/tf.svg",
+    "flag_4x3": "flags/4x3/tf.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          85,
+          164
+        ],
+        "hex": "#0055a4"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "red": {
+        "rgb": [
+          250,
+          60,
+          50
+        ],
+        "hex": "#fa3c32"
+      }
+    },
+    "vexillo_design": [
+      "symbol",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "GA",
+    "cca3": "GAB",
+    "name": "Gabon",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "-0.43426435",
+      "longitude": "11.43916591",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ga.svg",
+    "flag_4x3": "flags/4x3/ga.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          103,
+          177
+        ],
+        "hex": "#0067b1"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.3333
+  },
+  {
+    "code": "GM",
+    "cca3": "GMB",
+    "name": "Gambia",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GMD": {
+        "name": "dalasi",
+        "symbol": "D"
+      }
+    },
+    "center": {
+      "latitude": "13.15921146",
+      "longitude": "-15.35956748",
+      "zoom": "8"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/gm.svg",
+    "flag_4x3": "flags/4x3/gm.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          206,
+          17,
+          38
+        ],
+        "hex": "#ce1126"
+      },
+      "blue": {
+        "rgb": [
+          12,
+          28,
+          140
+        ],
+        "hex": "#0c1c8c"
+      },
+      "green": {
+        "rgb": [
+          58,
+          119,
+          40
+        ],
+        "hex": "#3a7728"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "GH",
+    "cca3": "GHA",
+    "name": "Ghana",
+    "capital": "Accra",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GHS": {
+        "name": "Ghanaian cedi",
+        "symbol": "₵"
+      }
+    },
+    "center": {
+      "latitude": "7.69154199",
+      "longitude": "-1.29234904",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/gh.svg",
+    "flag_4x3": "flags/4x3/gh.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "GN",
+    "cca3": "GIN",
+    "name": "Guinea",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "GNF": {
+        "name": "Guinean franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "9.94301472",
+      "longitude": "-11.31711839",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/gn.svg",
+    "flag_4x3": "flags/4x3/gn.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
+    },
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "GW",
+    "cca3": "GNB",
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    },
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "11.80050682",
+      "longitude": "-15.18040700",
+      "zoom": "8"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/gw.svg",
+    "flag_4x3": "flags/4x3/gw.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "KE",
+    "cca3": "KEN",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "KES": {
+        "name": "Kenyan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "center": {
+      "latitude": "0.19582452",
+      "longitude": "37.97212297",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ke.svg",
+    "flag_4x3": "flags/4x3/ke.svg",
+    "vexillo_colors": {
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "red": {
+        "rgb": [
+          176,
+          0,
+          0
+        ],
+        "hex": "#b00000"
+      },
+      "green": {
+        "rgb": [
+          0,
+          96,
+          0
+        ],
+        "hex": "#006000"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "LS",
+    "cca3": "LSO",
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "currencies": {
+      "LSL": {
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "center": {
+      "latitude": "-29.60303205",
+      "longitude": "28.23361200",
+      "zoom": "8"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ls.svg",
+    "flag_4x3": "flags/4x3/ls.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          85,
+          164
+        ],
+        "hex": "#0055a4"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "green": {
+        "rgb": [
+          0,
+          161,
+          96
+        ],
+        "hex": "#00a160"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "LR",
+    "cca3": "LBR",
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "LRD": {
+        "name": "Liberian dollar",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "6.44154681",
+      "longitude": "-9.39103485",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/lr.svg",
+    "flag_4x3": "flags/4x3/lr.svg",
+    "vexillo_colors": {
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "red": {
+        "rgb": [
+          178,
+          34,
+          52
+        ],
+        "hex": "#b22234"
+      },
+      "blue": {
+        "rgb": [
+          60,
+          59,
+          110
+        ],
+        "hex": "#3c3b6e"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.9
+  },
+  {
+    "code": "LY",
+    "cca3": "LBY",
+    "name": "Libya",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "LYD": {
+        "name": "Libyan dinar",
+        "symbol": "ل.د"
+      }
+    },
+    "center": {
+      "latitude": "27.06902914",
+      "longitude": "18.19513987",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ly.svg",
+    "flag_4x3": "flags/4x3/ly.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          231,
+          0,
+          19
+        ],
+        "hex": "#e70013"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "green": {
+        "rgb": [
+          35,
+          158,
+          70
+        ],
+        "hex": "#239e46"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "MG",
+    "cca3": "MDG",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "currencies": {
+      "MGA": {
+        "name": "Malagasy ariary",
+        "symbol": "Ar"
+      }
+    },
+    "center": {
+      "latitude": "-19.79858543",
+      "longitude": "46.97898228",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/mg.svg",
+    "flag_4x3": "flags/4x3/mg.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          241,
+          90,
+          49
+        ],
+        "hex": "#f15a31"
+      },
+      "green": {
+        "rgb": [
+          0,
+          134,
+          88
+        ],
+        "hex": "#008658"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "MW",
+    "cca3": "MWI",
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "currencies": {
+      "MWK": {
+        "name": "Malawian kwacha",
+        "symbol": "MK"
+      }
+    },
+    "center": {
+      "latitude": "-12.48684092",
+      "longitude": "34.14223524",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/mw.svg",
+    "flag_4x3": "flags/4x3/mw.svg",
+    "vexillo_colors": {
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "red": {
+        "rgb": [
+          206,
+          17,
+          38
+        ],
+        "hex": "#ce1126"
+      },
+      "green": {
+        "rgb": [
+          51,
+          158,
+          53
+        ],
+        "hex": "#339e35"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "ML",
+    "cca3": "MLI",
+    "name": "Mali",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "17.69385811",
+      "longitude": "-1.96368730",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ml.svg",
+    "flag_4x3": "flags/4x3/ml.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
+    },
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "MR",
+    "cca3": "MRT",
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "center": {
+      "latitude": "20.28331239",
+      "longitude": "-10.21573334",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/mr.svg",
+    "flag_4x3": "flags/4x3/mr.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          92
+        ],
+        "hex": "#00a95c"
+      },
+      "red": {
+        "rgb": [
+          208,
+          28,
+          31
+        ],
+        "hex": "#d01c1f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          215,
+          0
+        ],
+        "hex": "#ffd700"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "MU",
+    "cca3": "MUS",
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "mfe": "Mauritian Creole"
+    },
+    "currencies": {
+      "MUR": {
+        "name": "Mauritian rupee",
+        "symbol": "₨"
+      }
+    },
+    "center": {
+      "latitude": "-20.28368188",
+      "longitude": "57.56588291",
+      "zoom": "10"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/mu.svg",
+    "flag_4x3": "flags/4x3/mu.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          240,
+          81,
+          51
+        ],
+        "hex": "#f05133"
+      },
+      "blue": {
+        "rgb": [
+          28,
+          38,
+          116
+        ],
+        "hex": "#1c2674"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          232,
+          0
+        ],
+        "hex": "#ffe800"
+      },
+      "green": {
+        "rgb": [
+          0,
+          178,
+          116
+        ],
+        "hex": "#00b274"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "YT",
+    "cca3": "MYT",
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "center": {
+      "latitude": "-12.82744522",
+      "longitude": "45.16624200",
+      "zoom": "11"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/yt.svg",
+    "flag_4x3": "flags/4x3/yt.svg",
+    "vexillo_colors": {
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "MA",
+    "cca3": "MAR",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "currencies": {
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "د.م."
+      }
+    },
+    "center": {
+      "latitude": "31.95441758",
+      "longitude": "-7.26839325",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ma.svg",
+    "flag_4x3": "flags/4x3/ma.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          209,
+          18,
+          66
+        ],
+        "hex": "#d11242"
+      },
+      "green": {
+        "rgb": [
+          67,
+          149,
+          57
+        ],
+        "hex": "#439539"
+      }
+    },
+    "vexillo_design": [
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "MZ",
+    "cca3": "MOZ",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "MZN": {
+        "name": "Mozambican metical",
+        "symbol": "MT"
+      }
+    },
+    "center": {
+      "latitude": "-19.07617816",
+      "longitude": "33.81570282",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/mz.svg",
+    "flag_4x3": "flags/4x3/mz.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          62,
+          66
+        ],
+        "hex": "#ef3e42"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          210,
+          0
+        ],
+        "hex": "#ffd200"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "NA",
+    "cca3": "NAM",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "afr": "Afrikaans",
+      "deu": "German",
+      "eng": "English",
+      "her": "Herero",
+      "hgm": "Khoekhoe",
+      "kwn": "Kwangali",
+      "loz": "Lozi",
+      "ndo": "Ndonga",
+      "tsn": "Tswana"
+    },
+    "currencies": {
+      "NAD": {
+        "name": "Namibian dollar",
+        "symbol": "$"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "center": {
+      "latitude": "-22.70965620",
+      "longitude": "16.72161918",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/na.svg",
+    "flag_4x3": "flags/4x3/na.svg",
+    "vexillo_colors": {
+      "yellow": {
+        "rgb": [
+          253,
+          185,
+          51
+        ],
+        "hex": "#fdb933"
+      },
+      "red": {
+        "rgb": [
+          238,
+          49,
+          36
+        ],
+        "hex": "#ee3124"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          85,
+          164
+        ],
+        "hex": "#0055a4"
+      },
+      "green": {
+        "rgb": [
+          0,
+          161,
+          96
+        ],
+        "hex": "#00a160"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "NE",
+    "cca3": "NER",
+    "name": "Niger",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "17.23446679",
+      "longitude": "8.23547860",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ne.svg",
+    "flag_4x3": "flags/4x3/ne.svg",
+    "vexillo_colors": {
+      "orange": {
+        "rgb": [
+          224,
+          82,
+          6
+        ],
+        "hex": "#e05206"
+      },
+      "green": {
+        "rgb": [
+          13,
+          176,
+          43
+        ],
+        "hex": "#0db02b"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "disc",
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.1667
+  },
+  {
+    "code": "NG",
+    "cca3": "NGA",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "NGN": {
+        "name": "Nigerian naira",
+        "symbol": "₦"
+      }
+    },
+    "center": {
+      "latitude": "9.02165273",
+      "longitude": "7.82933373",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ng.svg",
+    "flag_4x3": "flags/4x3/ng.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          135,
+          81
+        ],
+        "hex": "#008751"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "CG",
+    "cca3": "COG",
+    "name": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "fra": "French",
+      "kon": "Kikongo",
+      "lin": "Lingala"
+    },
+    "currencies": {
+      "XAF": {
+        "name": "Central African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "-0.68967806",
+      "longitude": "15.69033190",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/cg.svg",
+    "flag_4x3": "flags/4x3/cg.svg",
+    "vexillo_colors": {
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
+    },
+    "vexillo_design": [
+      "polygon"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "RW",
+    "cca3": "RWA",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "currencies": {
+      "RWF": {
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "-1.98589079",
+      "longitude": "29.94255855",
+      "zoom": "8"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/rw.svg",
+    "flag_4x3": "flags/4x3/rw.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          129,
+          198
+        ],
+        "hex": "#0081c6"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "green": {
+        "rgb": [
+          0,
+          138,
+          94
+        ],
+        "hex": "#008a5e"
+      },
+      "sun": {
+        "rgb": [
+          253,
+          185,
+          19
+        ],
+        "hex": "#fdb913"
+      }
+    },
+    "vexillo_design": [
+      "disc",
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "RE",
+    "cca3": "REU",
+    "name": "Réunion",
+    "capital": "Saint-Denis",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      }
+    },
+    "center": {
+      "latitude": "-21.11480084",
+      "longitude": "55.53638200",
+      "zoom": "10"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/re.svg",
+    "flag_4x3": "flags/4x3/re.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          51,
+          102,
+          255
+        ],
+        "hex": "#3366ff"
+      },
+      "red": {
+        "rgb": [
+          255,
+          0,
+          0
+        ],
+        "hex": "#ff0000"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          255,
+          0
+        ],
+        "hex": "#ffff00"
+      }
+    },
+    "vexillo_design": [
+      "polygon"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "SH",
+    "cca3": "SHN",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "capital": "Jamestown",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "GBP": {
+        "name": "Pound sterling",
+        "symbol": "£"
+      },
+      "SHP": {
+        "name": "Saint Helena pound",
+        "symbol": "£"
+      }
+    },
+    "center": {
+      "latitude": "-37.10521846",
+      "longitude": "-12.27768580",
+      "zoom": "12"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/sh.svg",
+    "flag_4x3": "flags/4x3/sh.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          36,
+          125
+        ],
+        "hex": "#00247d"
+      },
+      "red": {
+        "rgb": [
+          207,
+          20,
+          43
+        ],
+        "hex": "#cf142b"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "cross",
+      "polygon",
+      "saltire"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "ST",
+    "cca3": "STP",
+    "name": "Sao Tome and Principe",
+    "capital": "São Tomé",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "por": "Portuguese"
+    },
+    "currencies": {
+      "STN": {
+        "name": "São Tomé and Príncipe dobra",
+        "symbol": "Db"
+      }
+    },
+    "center": {
+      "latitude": "0.23381910",
+      "longitude": "6.59935809",
+      "zoom": "10"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/st.svg",
+    "flag_4x3": "flags/4x3/st.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "SN",
+    "cca3": "SEN",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "14.43579003",
+      "longitude": "-14.68306489",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/sn.svg",
+    "flag_4x3": "flags/4x3/sn.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      }
+    },
+    "vexillo_design": [
+      "symbol",
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "SC",
+    "cca3": "SYC",
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "currencies": {
+      "SCR": {
+        "name": "Seychellois rupee",
+        "symbol": "₨"
+      }
+    },
+    "center": {
+      "latitude": "-4.68053204",
+      "longitude": "55.49061371",
+      "zoom": "11"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/sc.svg",
+    "flag_4x3": "flags/4x3/sc.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          0,
+          91,
+          170
+        ],
+        "hex": "#005baa"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          203,
+          5
+        ],
+        "hex": "#ffcb05"
+      },
+      "red": {
+        "rgb": [
+          237,
+          28,
+          36
+        ],
+        "hex": "#ed1c24"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "green": {
+        "rgb": [
+          0,
+          166,
+          81
+        ],
+        "hex": "#00a651"
+      }
+    },
+    "vexillo_design": [
+      "polygon"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "SL",
+    "cca3": "SLE",
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "SLL": {
+        "name": "Sierra Leonean leone",
+        "symbol": "Le"
+      }
+    },
+    "center": {
+      "latitude": "8.45575589",
+      "longitude": "-11.93368759",
+      "zoom": "8"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/sl.svg",
+    "flag_4x3": "flags/4x3/sl.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          84,
+          185,
+          72
+        ],
+        "hex": "#54b948"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "blue": {
+        "rgb": [
+          121,
+          189,
+          232
+        ],
+        "hex": "#79bde8"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "SO",
+    "cca3": "SOM",
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "currencies": {
+      "SOS": {
+        "name": "Somali shilling",
+        "symbol": "Sh"
+      }
+    },
+    "center": {
+      "latitude": "2.87224619",
+      "longitude": "45.27676444",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/so.svg",
+    "flag_4x3": "flags/4x3/so.svg",
+    "vexillo_colors": {
+      "blue": {
+        "rgb": [
+          51,
+          153,
+          255
+        ],
+        "hex": "#3399ff"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "ZA",
+    "cca3": "ZAF",
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "subregion": "Southern Africa",
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English",
+      "nbl": "Southern Ndebele",
+      "nso": "Northern Sotho",
+      "sot": "Southern Sotho",
+      "ssw": "Swazi",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zul": "Zulu"
+    },
+    "currencies": {
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "R"
+      }
+    },
+    "center": {
+      "latitude": "-27.17706863",
+      "longitude": "24.50856092",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/za.svg",
+    "flag_4x3": "flags/4x3/za.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          124,
+          89
+        ],
+        "hex": "#007c59"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "gold": {
+        "rgb": [
+          252,
+          181,
+          20
+        ],
+        "hex": "#fcb514"
+      },
+      "red": {
+        "rgb": [
+          226,
+          61,
+          40
+        ],
+        "hex": "#e23d28"
+      },
+      "blue": {
+        "rgb": [
+          12,
+          28,
+          140
+        ],
+        "hex": "#0c1c8c"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "SS",
+    "cca3": "SSD",
+    "name": "South Sudan",
+    "capital": "Juba",
+    "continent": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "SSP": {
+        "name": "South Sudanese pound",
+        "symbol": "£"
+      }
+    },
+    "center": {
+      "latitude": "7.91320803",
+      "longitude": "30.15342434",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ss.svg",
+    "flag_4x3": "flags/4x3/ss.svg",
+    "vexillo_colors": {
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      },
+      "red": {
+        "rgb": [
+          218,
+          18,
+          26
+        ],
+        "hex": "#da121a"
+      },
+      "green": {
+        "rgb": [
+          7,
+          137,
+          48
+        ],
+        "hex": "#078930"
+      },
+      "blue": {
+        "rgb": [
+          15,
+          71,
+          175
+        ],
+        "hex": "#0f47af"
+      },
+      "yellow": {
+        "rgb": [
+          252,
+          221,
+          9
+        ],
+        "hex": "#fcdd09"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "SD",
+    "cca3": "SDN",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "currencies": {
+      "SDG": {
+        "name": "Sudanese pound",
+        "symbol": "PT"
+      }
+    },
+    "center": {
+      "latitude": "15.96646839",
+      "longitude": "30.37145459",
+      "zoom": "5"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/sd.svg",
+    "flag_4x3": "flags/4x3/sd.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "TZ",
+    "cca3": "TZA",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "TZS": {
+        "name": "Tanzanian shilling",
+        "symbol": "Sh"
+      }
+    },
+    "center": {
+      "latitude": "-6.37551085",
+      "longitude": "34.85587302",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/tz.svg",
+    "flag_4x3": "flags/4x3/tz.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          84,
+          185,
+          72
+        ],
+        "hex": "#54b948"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          210,
+          0
+        ],
+        "hex": "#ffd200"
+      },
+      "blue": {
+        "rgb": [
+          0,
+          157,
+          220
+        ],
+        "hex": "#009ddc"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      }
+    },
+    "vexillo_design": [
+      "polygon"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "TG",
+    "cca3": "TGO",
+    "name": "Togo",
+    "capital": "Lomé",
+    "continent": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+      "fra": "French"
+    },
+    "currencies": {
+      "XOF": {
+        "name": "West African CFA franc",
+        "symbol": "Fr"
+      }
+    },
+    "center": {
+      "latitude": "8.68089206",
+      "longitude": "0.86049757",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/tg.svg",
+    "flag_4x3": "flags/4x3/tg.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          106,
+          78
+        ],
+        "hex": "#006a4e"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          206,
+          0
+        ],
+        "hex": "#ffce00"
+      },
+      "red": {
+        "rgb": [
+          210,
+          16,
+          52
+        ],
+        "hex": "#d21034"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.618
+  },
+  {
+    "code": "TN",
+    "cca3": "TUN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ara": "Arabic"
+    },
+    "currencies": {
+      "TND": {
+        "name": "Tunisian dinar",
+        "symbol": "د.ت"
+      }
+    },
+    "center": {
+      "latitude": "33.88431940",
+      "longitude": "9.71878341",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/tn.svg",
+    "flag_4x3": "flags/4x3/tn.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          218,
+          31,
+          61
+        ],
+        "hex": "#da1f3d"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "disc",
+      "symbol"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "UG",
+    "cca3": "UGA",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "currencies": {
+      "UGX": {
+        "name": "Ugandan shilling",
+        "symbol": "Sh"
+      }
+    },
+    "center": {
+      "latitude": "1.54760620",
+      "longitude": "32.44409759",
+      "zoom": "7"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/ug.svg",
+    "flag_4x3": "flags/4x3/ug.svg",
+    "vexillo_colors": {
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          221,
+          0
+        ],
+        "hex": "#ffdd00"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "disc",
+      "horizontal_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "EH",
+    "cca3": "ESH",
+    "name": "Western Sahara",
+    "capital": "Laayoune",
+    "continent": "Africa",
+    "subregion": "Northern Africa",
+    "languages": {
+      "ber": "Berber",
+      "mey": "Hassaniya",
+      "spa": "Spanish"
+    },
+    "currencies": {
+      "DZD": {
+        "name": "Algerian dinar",
+        "symbol": "دج"
+      },
+      "MAD": {
+        "name": "Moroccan dirham",
+        "symbol": "DH"
+      },
+      "MRU": {
+        "name": "Mauritanian ouguiya",
+        "symbol": "UM"
+      }
+    },
+    "center": {
+      "latitude": "24.79324356",
+      "longitude": "-13.67683563",
+      "zoom": "6"
+    },
+    "unMember": false,
+    "independent": false,
+    "flag_1x1": "flags/1x1/eh.svg",
+    "flag_4x3": "flags/4x3/eh.svg",
+    "vexillo_colors": {
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "disc",
+      "horizontal_stripes",
+      "polygon",
+      "symbol"
+    ],
+    "vexillo_aspect": 2.0
+  },
+  {
+    "code": "ZM",
+    "cca3": "ZMB",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "eng": "English"
+    },
+    "currencies": {
+      "ZMW": {
+        "name": "Zambian kwacha",
+        "symbol": "ZK"
+      }
+    },
+    "center": {
+      "latitude": "-13.01812188",
+      "longitude": "28.33274444",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/zm.svg",
+    "flag_4x3": "flags/4x3/zm.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "orange": {
+        "rgb": [
+          247,
+          142,
+          30
+        ],
+        "hex": "#f78e1e"
+      }
+    },
+    "vexillo_design": [
+      "vertical_stripes"
+    ],
+    "vexillo_aspect": 1.5
+  },
+  {
+    "code": "ZW",
+    "cca3": "ZWE",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "continent": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+      "bwg": "Chibarwe",
+      "eng": "English",
+      "kck": "Kalanga",
+      "khi": "Khoisan",
+      "ndc": "Ndau",
+      "nde": "Northern Ndebele",
+      "nya": "Chewa",
+      "sna": "Shona",
+      "sot": "Sotho",
+      "toi": "Tonga",
+      "tsn": "Tswana",
+      "tso": "Tsonga",
+      "ven": "Venda",
+      "xho": "Xhosa",
+      "zib": "Zimbabwean Sign Language"
+    },
+    "currencies": {
+      "BWP": {
+        "name": "Botswana pula",
+        "symbol": "P"
+      },
+      "CNY": {
+        "name": "Chinese yuan",
+        "symbol": "¥"
+      },
+      "EUR": {
+        "name": "Euro",
+        "symbol": "€"
+      },
+      "GBP": {
+        "name": "British pound",
+        "symbol": "£"
+      },
+      "INR": {
+        "name": "Indian rupee",
+        "symbol": "₹"
+      },
+      "JPY": {
+        "name": "Japanese yen",
+        "symbol": "¥"
+      },
+      "USD": {
+        "name": "United States dollar",
+        "symbol": "$"
+      },
+      "ZAR": {
+        "name": "South African rand",
+        "symbol": "Rs"
+      },
+      "ZWB": {
+        "name": "Zimbabwean bonds",
+        "symbol": "$"
+      }
+    },
+    "center": {
+      "latitude": "-19.00784952",
+      "longitude": "30.18758584",
+      "zoom": "6"
+    },
+    "unMember": true,
+    "independent": true,
+    "flag_1x1": "flags/1x1/zw.svg",
+    "flag_4x3": "flags/4x3/zw.svg",
+    "vexillo_colors": {
+      "green": {
+        "rgb": [
+          0,
+          169,
+          79
+        ],
+        "hex": "#00a94f"
+      },
+      "yellow": {
+        "rgb": [
+          255,
+          242,
+          3
+        ],
+        "hex": "#fff203"
+      },
+      "red": {
+        "rgb": [
+          239,
+          65,
+          53
+        ],
+        "hex": "#ef4135"
+      },
+      "black": {
+        "rgb": [
+          0,
+          0,
+          0
+        ],
+        "hex": "#000000"
+      },
+      "white": {
+        "rgb": [
+          255,
+          255,
+          255
+        ],
+        "hex": "#ffffff"
+      }
+    },
+    "vexillo_design": [
+      "horizontal_stripes",
+      "polygon"
+    ],
+    "vexillo_aspect": 2.0
+  }
 ]
