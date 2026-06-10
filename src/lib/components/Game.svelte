@@ -49,7 +49,10 @@
     }
 </script>
 
-<div class="wrapper" style:background-image={gameOver ? null : `url("${currentFlagUrl}")`}>
+<div class="wrapper">
+    {#if !gameOver}
+        <div class="blur-bg" style:background-image={`url("${currentFlagUrl}")`}></div>
+    {/if}
     <div class="game">
 
         <div class="top-section">
@@ -86,24 +89,34 @@
 
 <style>
     .wrapper {
+        position: relative;
         width: 100dvw;
         height: 100dvh;
         display: flex;
         align-items: center;
         justify-content: center;
+        background-color: white;
+        overflow: hidden;
+    }
 
+    /* Separate background element — filter: blur() works universally,
+       unlike backdrop-filter which can fail in production SSR builds */
+    .blur-bg {
+        position: absolute;
+        inset: -20px; /* overshoot to hide blurred edges */
         background-size: contain;
         background-repeat: repeat;
         background-position: center;
+        filter: blur(15px);
+        opacity: 1;
     }
 
     .game {
+        position: relative; /* stack above .blur-bg */
         height: 99vh;
         width: 99vw;
 
-        background: rgba(255, 255, 255, 0.15);
-        backdrop-filter: blur(20px);
-        -webkit-backdrop-filter: blur(20px);
+        background: rgba(255, 255, 255, 0.1);
         border: 2px solid black;
         border-radius: 5vw;
         box-sizing: border-box;
