@@ -1,6 +1,7 @@
 const modules = import.meta.glob('/src/lib/assets/flags/4x3/*.svg', {
     eager: true,
-    as: 'url'
+    query: '?url',
+    import: 'default'
 });
 
 export function getFlagUrl(code) {
