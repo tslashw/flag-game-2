@@ -1,6 +1,7 @@
 <script>
     import { getFlagUrl } from "$lib/flags.js";
     import { buildGame, getOptions, getRegionFlags } from "$lib/game.js";
+    import ScoreScreen from "$lib/components/ScoreScreen.svelte";
 
     let { region, length, onmenu } = $props();
 
@@ -48,7 +49,7 @@
     }
 </script>
 
-<div class="wrapper" style:background-image={`url("${currentFlagUrl}")`}>
+<div class="wrapper" style:background-image={gameOver ? null : `url("${currentFlagUrl}")`}>
     <div class="game">
 
         <div class="top-section">
@@ -56,19 +57,16 @@
                 <div class="progress-fill" style:width={`${progress}%`}></div>
             </div>
             <div class="top-bar">
-                <button class="menu-btn" onclick={onmenu}>← Menu</button>
+                <button class="menu-btn" onclick={onmenu}>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 19-7-7 7-7"/><path d="M19 12H5"/></svg>
+                    MENU
+                </button>
                 <div class="score"><h1>SCORE: {score}</h1></div>
             </div>
         </div>
 
         {#if gameOver}
-            <div class="result">
-                <p class="result-label">Final Score</p>
-                <p class="result-score">{score}<span>/{total}</span></p>
-            </div>
-            <div class="options">
-                <button onclick={onmenu}>← Back to Menu</button>
-            </div>
+            <ScoreScreen {score} {total} {onmenu} />
         {:else}
             <img src={currentFlagUrl} alt={currentQuestion.flag.name} />
 
@@ -172,6 +170,15 @@
         border-radius: 5vw;
         cursor: pointer;
         transition: transform 0.1s ease, background-color 0.1s ease;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+    }
+
+    .menu-btn svg {
+        width: 1.2em;
+        height: 1.2em;
+        flex-shrink: 0;
     }
 
     .menu-btn:active {
@@ -231,34 +238,4 @@
         background-color: #555;
     }
 
-    /* ── Game over ────────────────────────────────── */
-
-    .result {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        gap: 1vh;
-    }
-
-    .result-label {
-        font-family: "Fjalla One", sans-serif;
-        font-size: clamp(18px, 6vw, 40px);
-        color: white;
-        text-shadow: 0 2px 12px rgba(0, 0, 0, 0.8);
-        margin: 0;
-    }
-
-    .result-score {
-        font-family: "Fjalla One", sans-serif;
-        font-size: clamp(60px, 20vw, 140px);
-        color: white;
-        text-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
-        margin: 0;
-        line-height: 1;
-    }
-
-    .result-score span {
-        font-size: 0.5em;
-        opacity: 0.7;
-    }
 </style>

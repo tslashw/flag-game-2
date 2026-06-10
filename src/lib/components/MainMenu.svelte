@@ -12,7 +12,7 @@
 
 
 <div class="main-menu">
-    <h1 class="title fjalla-font">FLAG GAME 2</h1>
+    <h1 class="title fjalla-font">FLAG GURU</h1>
 
     <div class="options">
         <section>
