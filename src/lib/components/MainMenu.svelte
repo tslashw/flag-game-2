@@ -90,17 +90,26 @@ section {
 
 section button {
     background: none;
+    color: black;
     border-radius: 0.75rem;
     border: solid black 2px;
-    padding: 1vw;
+    padding: 2vw 3.5vw;
 
     min-width: 15vw;
 
     font-family: "Fjalla One", sans-serif;
     font-weight: 100;
+    font-size: 4.8vw;
 
     cursor: pointer;
     transition: transform 0.1s ease, background-color 0.1s ease;
+}
+
+@media (min-width: 768px) {
+    section button {
+        padding: 8px 16px;
+        font-size: 16px;
+    }
 }
 
 section button:hover {
@@ -161,17 +170,28 @@ h2 {
 
 .play button {
     background: none;
+    color: black;
     border-radius: 0.75rem;
     border: solid black 2px;
     padding: 1vw;
 
     width: 95vw;
-    height: 5vh;
+    height: 7vh;
 
     margin-bottom: 2vh;
 
+    font-family: "Fjalla One", sans-serif;
+    font-size: 5.5vw;
+
     cursor: pointer;
     transition: transform 0.1s ease, background-color 0.1s ease;
+}
+
+@media (min-width: 768px) {
+    .play button {
+        height: 5vh;
+        font-size: 18px;
+    }
 }
 
 .play button:active {
