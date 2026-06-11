@@ -1,4 +1,5 @@
 <script>
+    import { base } from "$app/paths";
     import { getFlagCount } from "$lib/game.js";
 
     const regions     = ["World", "Europe", "Asia", "North America", "South America", "Oceania", "Africa"];
@@ -12,7 +13,7 @@
 
 
 <div class="main-menu">
-    <h1 class="title fjalla-font">FLAG GURU</h1>
+    <h1 class="title fjalla-font" style="--title-bg: url('{base}/flag-background.jpg')">FLAG GURU</h1>
 
     <div class="options">
         <section>
@@ -78,7 +79,7 @@
         -3px  3px 0 black,
         3px  3px 0 black;
 
-    background-image: url("/flag-background.jpg");
+    background-image: var(--title-bg);
     border-bottom: solid black 3px;
 }
 
