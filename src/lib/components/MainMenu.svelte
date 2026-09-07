@@ -13,7 +13,7 @@
 
 
 <div class="main-menu">
-    <h1 class="title fjalla-font" style="--title-bg: url('{base}/flag-background.jpg')">FLAG GURU</h1>
+    <h1 class="title fjalla-font" style="--title-bg: url('{base}/flag-background.jpg')">FLAG CHAMPION</h1>
 
     <div class="options">
         <section>

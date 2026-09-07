@@ -6,7 +6,7 @@
     const percentage = Math.round((score / total) * 100);
 
     const tiers = [
-        { min: 95, label: "Guru"  },
+        { min: 95, label: "Champion"  },
         { min: 75, label: "Master"   },
         { min: 60, label: "Expert"  },
         { min: 45, label: "Specialist"    },

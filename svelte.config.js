@@ -9,7 +9,7 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		paths: {
-			base: '/flag-guru',
+			base: '/flag-champion',
 			relative: false
 		}
 	}
